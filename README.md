@@ -33,6 +33,6 @@ HTML, CSS, JS
 ---
 📬 Let's connect:  
 [GitHub](https://github.com/priyanbhatt) • 
-[LinkedIn](https://www.linkedin.com/in/priyan-bhatt-0346562b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) 
+[LinkedIn](https://www.linkedin.com/in/priyan-bhatt-0346562b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) •
 [Email](mailto:priyanbhatt6@gmail.com)
 
