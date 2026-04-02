@@ -23,18 +23,28 @@ Projects
 Deepfake Detection — Generalization Hypothesis
 ->Investigated the hypothesis that deepfake detectors exhibit significant performance degradation on out-of-distribution (OOD) data, particularly when test samples 
   originate from manipulation methods not present in the training set
+  
 ->Implemented a preprocessing pipeline for facial frame extraction, alignment, and normalization from video data
+
 ->Trained and evaluated CNN-based architectures, including EfficientNet-B7 and ResNet, for binary classification (real vs fake)
+
 ->Conducted controlled experiments with in-distribution vs out-of-distribution splits to assess generalization behavior
+
 ->Observed that models achieve strong performance on seen distributions but fail to generalize to unseen deepfake generation techniques, supporting the hypothesis
+
 ->Evaluated using standard metrics (accuracy, precision, recall, F1-score), with emphasis on cross-dataset validation
+
 ->Focus: robustness, distribution shift, and reliability of deepfake detection systems in real-world settings
 
 Invoice Data Processing and Analysis
 ->Designed a structured data processing pipeline for business data
+
 ->Performed data extraction, cleaning, and transformation
+
 ->Enabled efficient storage and retrieval for analytical use
+
 ->Focus: converting raw operational data into structured, usable datasets
+
 
 Technical Stack
 
