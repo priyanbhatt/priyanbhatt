@@ -21,6 +21,7 @@ Linear algebra, probability, statistics, optimization fundamentals
 
 Projects
 Deepfake Detection — Generalization Hypothesis
+
 ->Investigated the hypothesis that deepfake detectors exhibit significant performance degradation on out-of-distribution (OOD) data, particularly when test samples 
   originate from manipulation methods not present in the training set
   
@@ -37,6 +38,7 @@ Deepfake Detection — Generalization Hypothesis
 ->Focus: robustness, distribution shift, and reliability of deepfake detection systems in real-world settings
 
 Invoice Data Processing and Analysis
+
 ->Designed a structured data processing pipeline for business data
 
 ->Performed data extraction, cleaning, and transformation
